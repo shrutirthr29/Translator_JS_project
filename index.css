@@ -1,0 +1,47 @@
+.container{
+    background-color: pink;
+    width: 50rem;
+    height: 40rem;
+    margin-left: 22rem;
+    border-radius: 2rem;
+}
+h1{
+    position: absolute;
+    margin-left: 18rem;
+    margin-top: 2rem;
+}
+#text-1{
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 7rem;
+}
+#txt-input{
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 10rem;
+
+}
+#btn{
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 20rem;
+    width: 24.4rem;
+    height: 3rem;
+    font-size: 20px;
+    background-color: rgb(202, 32, 61);
+    color: white;
+    border-radius: 2rem;
+
+}
+#text-2{
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 24rem;
+
+}
+#txt-output{
+    position: absolute;
+    margin-left: 15rem;
+    margin-top: 27rem;
+
+}
